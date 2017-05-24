@@ -1,0 +1,2 @@
+robot_mutil_dev.py E:\lunkr_auto_test_git\Web\Lunkr4Web_AutoTest_dev local,node1,node2 http://lunkrtech.rd.mt:4444/wd/hub
+robot_mutil_dev.py E:\lunkr_auto_test_git\Web\Lunkr4Web_AutoTest_dev local,node1,node2 None
