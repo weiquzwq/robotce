@@ -1,2 +1,2 @@
 # robotce
-the frame for selenium concurrent execution by robotframework
+the frame for concurrent execution by robotframework
