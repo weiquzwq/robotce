@@ -4,7 +4,7 @@ Library           Selenium2Library
 *** Test Cases ***
 open_baidu
     [Tags]    node1
-    Open Browser    https://www.baidu.com    firefox    remote_url=http://lunkrtech.rd.mt:4444/wd/hub
+    Open Browser    https://www.baidu.com    firefox    remote_url=http://abc:4444/wd/hub
     sleep    6
     [Teardown]    Close Browser
 
@@ -17,6 +17,6 @@ open_lunkr
 
 open_coremail
     [Tags]    node2
-    Open Browser    http://www.coremail.cn    chrome    remote_url=http://lunkrtech.rd.mt:4444/wd/hub
+    Open Browser    http://www.abc.cn    chrome    remote_url=http://abc:4444/wd/hub
     sleep    6
     [Teardown]    Close Browser
